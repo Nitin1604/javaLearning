@@ -12,7 +12,7 @@ public class Lec5_UserInput1 {
         int sum = a +b;
         System.out.println("The sum of these numbers is");
         System.out.println(sum);
-        String str = sc.nextLine();
+        String str = sc.next();
         System.out.println(str);
 
     }
