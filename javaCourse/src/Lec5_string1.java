@@ -5,9 +5,7 @@ public class Lec5_string1 {
         Scanner sc = new Scanner(System.in);
 
         String str = sc.next();
-//        String str2 = sc.nextLine();
         System.out.println(str);
-//
 
     }
 }
