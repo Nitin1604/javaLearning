@@ -12,8 +12,7 @@ public class Lec5_UserInput2 {
         float sum = a +b;
         System.out.println("The sum of these numbers is");
         System.out.println(sum);
-        String str = sc.nextLine();
-        System.out.println(str);
+
 
     }
 }
