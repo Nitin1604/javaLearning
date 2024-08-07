@@ -8,7 +8,7 @@ public class Lec24_break_continue {
                 System.out.println("Ending the loop");
                 break;
             }
-        }
+        } 
         int B=0;
         do{
             System.out.println(B);
