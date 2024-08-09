@@ -47,13 +47,13 @@ public class Lec32_methodOverloading {
     public static void main(String[] args) {
          tellJoke();
 
-        // Case 1: Changing the Integer
+        // Changing the Integer
         int x = 45;
         change(x);
         System.out.println("The value of x after running change is: " + x);
         System.out.println();
 
-        // Case 1: Changing the Array
+        // Changing the Array
         System.out.println("Initializing Array:-");
          int [] marks = {52, 73, 77, 89, 98, 94};
          change2(marks);
