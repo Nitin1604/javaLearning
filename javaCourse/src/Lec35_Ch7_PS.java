@@ -16,8 +16,6 @@ public class Lec35_Ch7_PS {
         }
     }
 
-
-
     // Question 3 Solution
     static int sumRec(int n) {
         // Base condition
@@ -107,7 +105,9 @@ public class Lec35_Ch7_PS {
     // Question 9 Solution
        // Method to convert Celsius to Fahrenheit
        public static float celsiusToFahrenheit(float celsius) {
-           return (celsius * 9/5) + 32;
+        
+        return (celsius * 9/5) + 32;
+
        }
 
        // Question 10 Solution
