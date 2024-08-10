@@ -1,7 +1,7 @@
 package practiceProgramsJavaPDF;
 
 public class program3 {
-    // Characters's examples
+    // Character's example 1
     public static void main(String[] args) {
         // Demonstrate char data type
         char ch1, ch2;
