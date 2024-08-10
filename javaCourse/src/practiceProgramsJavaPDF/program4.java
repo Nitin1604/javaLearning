@@ -1,6 +1,7 @@
 package practiceProgramsJavaPDF;
 
 public class program4 {
+    // Character's example 2
     public static void main(String[] args) {
         // Char variables behave like intergers
         char ch1, ch2;
