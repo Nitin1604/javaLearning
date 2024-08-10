@@ -22,7 +22,7 @@ public class Lec38_customClass {
         // Setting Attributes for nitin
         nitin.id = 12;
         nitin.salary = 34;
-        nitin.name = "Nitin";
+        nitin.name = "Nitin"; 
 
         // Setting Attributes for John
         john.id = 17;
