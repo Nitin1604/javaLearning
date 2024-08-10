@@ -18,3 +18,15 @@ Point 2:-
    |---> %s for string
 ```
 Associativity tells the direction of execution of operators. It can either be left to right or right to left. 
+
+Point 3:-
+```
+1. Result = byte + string -> int
+2. Result = string + int -> int
+3. Result = long + float -> float
+4. Result = int + float -> float
+5. Result = char + int -> int
+6. Result = char + string -> int
+7. Result = long + double -> double
+8. Result = float + double -> double
+```
