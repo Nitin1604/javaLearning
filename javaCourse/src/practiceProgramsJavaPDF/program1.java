@@ -1,6 +1,7 @@
 package practiceProgramsJavaPDF;
 
 public class program1 {
+    // Long's examples
     public static void main(String[] args) {
         int lightspeed;
         long days;
