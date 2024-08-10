@@ -34,7 +34,7 @@ public class Lec38_customClass {
         john.printDetails();
         int salary = john.getSalary();
         System.out.println(salary);
-         System.out.println(nitin.id);
-         System.out.println(nitin.name);
+        System.out.println(nitin.id);
+        System.out.println(nitin.name);
     }
 }
