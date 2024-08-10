@@ -1,6 +1,7 @@
 package practiceProgramsJavaPDF;
 
 public class program2 {
+    // Double's examples
     public static void main(String[] args) {
 
     // Compute the area of the circle
