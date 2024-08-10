@@ -17,3 +17,4 @@ Point 2:-
    |---> %c for char
    |---> %s for string
 ```
+Associativity tells the direction of execution of operators. It can either be left to right or right to left. 
