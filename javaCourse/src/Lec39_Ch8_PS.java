@@ -73,7 +73,7 @@ class Circle {
         double areaCircle = 3.14 * radius * radius;
         return areaCircle;
     }
-    // C=2πr --> Perimeter of circle
+ 
 
     public  double perimeter(){
         double perimeterCircle = 2 * 3.14 * radius;
