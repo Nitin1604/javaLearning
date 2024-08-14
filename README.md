@@ -32,12 +32,22 @@ Point 3:-
 ```
 
 Point 4:-
-
 ```
-And Operator -> it evalutes to true if both conditions are true
+And Operator -> It evalutes to true if both conditions are true
 True and False Truth Table
 True && True = True
 True && False = False
 False && True = False
 False && False = False
 ```
+
+Point 5:-
+```
+OR operator -> It evaluates to true when at least one of the conditions is true
+True or False Truth Table
+True || True = True
+True || False = True
+False || True = True
+False || False = False
+```
+
