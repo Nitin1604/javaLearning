@@ -50,10 +50,10 @@ True || False = True
 False || True = True
 False || False = False
 ```
+
 Point 6:-
 ```
 NOT operator -> It negates the given logic (true becomes false and false becomes true)
 !True = False
-```
 !False = True
-
+```
