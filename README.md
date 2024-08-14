@@ -30,3 +30,14 @@ Point 3:-
 7. Result = long + double -> double
 8. Result = float + double -> double
 ```
+
+Point 4:-
+
+```
+And Operator -> it evalutes to true if both conditions are true
+True and False Truth Table
+True && True = True
+True && False = False
+False && True = False
+False && False = False
+```
