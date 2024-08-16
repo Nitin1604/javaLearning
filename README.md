@@ -57,3 +57,11 @@ NOT operator -> It negates the given logic (true becomes false and false becomes
 !True = False
 !False = True
 ```
+Point 7:-
+This keyword
+```
+this is a way for us to reference an object of the class which is being created/referenced
+
+this.area =  2 -> this is a reference to current object
+```
+
