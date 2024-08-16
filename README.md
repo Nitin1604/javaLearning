@@ -64,4 +64,11 @@ this is a way for us to reference an object of the class which is being created/
 
 this.area =  2 -> this is a reference to current object
 ```
-
+Point 8:-
+```
+Super Keyword:-
+A reference variable used to refer immediate parent class object
+1. It can be used to refer immediate parent class instance variable
+2. It can be used to invoke parent class methods
+3. It can be used to invoke parent class constructors
+```
