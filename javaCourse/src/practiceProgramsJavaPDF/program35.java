@@ -18,6 +18,7 @@ class methodOverload {
     }
 }
 public class program35 {
+    // Method Overloading Example 2
     public static void main(String[] args) {
         methodOverload mOver = new methodOverload();
         int i = 89;
