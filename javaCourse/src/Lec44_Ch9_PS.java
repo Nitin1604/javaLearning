@@ -118,8 +118,5 @@ public class Lec44_Ch9_PS {
         System.out.println(mySphere.getHeight());
         System.out.println(mySphere.getRadius());
 
-
-
-
     }
 }
