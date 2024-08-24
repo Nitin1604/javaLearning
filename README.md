@@ -72,3 +72,25 @@ A reference variable used to refer immediate parent class object
 2. It can be used to invoke parent class methods
 3. It can be used to invoke parent class constructors
 ```
+Point 9:-
+```
+Interfaces in Java
+In java interface is a group of related methods with empty bodies.
+
+An example is as follows
+
+interface Bicycle {
+    void applyBrake(int decrement);
+    void speedup(int increment);
+ }
+
+class AvonCycle implements Bicycle {
+    int speed = 7;
+    void applyBrake(int decrement){
+         speed = speed - decrement;
+     }
+    void speedup(int increment) {
+	speed = speed + increment;
+   }
+}
+```
