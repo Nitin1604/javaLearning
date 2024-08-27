@@ -99,3 +99,12 @@ Truth Table AND Gate
 
 ![image](https://github.com/user-attachments/assets/3004c5e5-861b-4c1f-9bc3-a4d19a54f71d)
 Truth Table OR Gate
+
+```
+Is Java Compiled or Interpreted?
+Java is a hybrid language -> both compiled as well as interpreted
+
+1. A JVM can be used to interprete this bytecode
+2. This bytecode can be taken to any platform(win/Mac/Linux)
+3. Hence Java is platform independent (write once run everywhere
+```
