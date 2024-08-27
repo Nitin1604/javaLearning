@@ -94,10 +94,13 @@ class AvonCycle implements Bicycle {
    }
 }
 ```
+
+```
 ![image](https://github.com/user-attachments/assets/ff523d7c-0871-451a-8c31-d6b7b4165ad5)
 Truth Table AND Gate
 
 ![image](https://github.com/user-attachments/assets/3004c5e5-861b-4c1f-9bc3-a4d19a54f71d)
 Truth Table OR Gate
+```
 
 
