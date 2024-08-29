@@ -17,8 +17,8 @@ class SmartPhone extends Phone{
 }
 public class Lec49_dynamicMethodDispatch {
     public static void main(String[] args) {
-        // Phone obj = new Phone(); // Allowed
-        // SmartPhone sm-obj = new SmartPhone(); // Allowed
+         Phone obj1 = new Phone(); // Allowed
+         SmartPhone smobj = new SmartPhone(); // Allowed
         // obj.name();
 
         Phone obj = new SmartPhone(); // Yes it is allowed
