@@ -1,6 +1,6 @@
 package practiceProgramsJavaPDF;
 
-// This program demonstrates the length  array member.
+// This program demonstrates the length array member.
 public class program43 {
     public static void main(String[] args) {
         int arr1[] = new int[10];
