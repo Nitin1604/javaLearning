@@ -42,11 +42,11 @@ class Game{
 public class Lec50_guessingGame {
     public static void main(String[] args) {
 
-        Game g = new Game();
+        Game guessGame = new Game();
         boolean b= false;
         while(!b){
-            g.takeUserInput();
-            b = g.isCorrectNumber();
+            guessGame.takeUserInput();
+            b = guessGame.isCorrectNumber();
         }
 
     }
