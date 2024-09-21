@@ -1,25 +1,25 @@
 package interview.problemSolving;
 
 public class arrayReverse {
-    public static int[] arrRev(int[] reverseArray) {
-        int arrItemStart = 0;
-        int arrItemsEnd = reverseArray.length - 1;
+    public static int[] arrRev(int[] reverseArrObtained) {
+        int arrItemInitial = 0;
+        int arrItemsEnding = reverseArrObtained.length - 1;
 
-        while (arrItemStart < arrItemsEnd) {
-            int storedVal = reverseArray[arrItemStart];
-            reverseArray[arrItemStart] = reverseArray[arrItemsEnd];
-            reverseArray[arrItemsEnd] = storedVal;
+        while (arrItemInitial < arrItemsEnding) {
+            int storedVal = reverseArrObtained[arrItemInitial];
+            reverseArrObtained[arrItemInitial] = reverseArrObtained[arrItemsEnding];
+            reverseArrObtained[arrItemsEnding] = storedVal;
 
-            arrItemStart++;
-            arrItemsEnd--;
+            arrItemInitial++;
+            arrItemsEnding--;
         }
 
-        return reverseArray;
+        return reverseArrObtained;
     }
 
     public static void main(String[] args) {
-        int[] arrOld = {1, 2, 3, 4, 5};
-        int[] arrRevResult = arrRev(arrOld);
+        int[] arrBeforeReverse = {1, 2, 3, 4, 5};
+        int[] arrRevResult = arrRev(arrBeforeReverse);
 
         System.out.print("Reversed array is: ");
         for (int arrItems : arrRevResult) {
