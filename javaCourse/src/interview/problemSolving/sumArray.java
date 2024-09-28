@@ -1,10 +1,10 @@
 package interview.problemSolving;
 
 public class sumArray {
-    public static int sumArrayCalc(int [] arrayItemsCalcualation){
+    public static int sumArrayCalc(int [] arrayItemsCalculation){
         int sum = 0;
-        for (int i = 0; i < arrayItemsCalcualation.length; i++) {
-            sum += arrayItemsCalcualation[i];
+        for (int i = 0; i < arrayItemsCalculation.length; i++) {
+            sum += arrayItemsCalculation[i];
         }
         return sum;
     }
