@@ -6,11 +6,11 @@ public class avgNumArray {
         for (int i = 0; i < avgNumCalcuation.length; i++) {
             sum += avgNumCalcuation[i];
         }
-        double arrAverage = sum / avgNumCalcuation.length;
+        double arrAverage = (double) sum / avgNumCalcuation.length;
         return arrAverage;
     }
     public static void main(String[] args) {
-        int[] avgNum = {21, 46, 26, 5, 2};
+        int[] avgNum = {4,2,3};
         double avgNumResult = avgNumCalc(avgNum);
         System.out.println("Average is: " + avgNumResult);
     }
