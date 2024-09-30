@@ -1,3 +1,10 @@
+/*
+Ques 3. Write a Java program to print the following grid.
+Expected Output :
+- - - - - - - - - -
+- - - - - - - - - -
+- - - - - - - - - -
+ */
 package interview.problemSolving;
 
 public class avgNumArray {
