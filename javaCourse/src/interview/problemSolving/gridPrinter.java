@@ -1,5 +1,3 @@
-package interview.problemSolving;
-
 /*
 Ques 3. Write a Java program to print the following grid.
 Expected Output :
@@ -7,6 +5,7 @@ Expected Output :
 - - - - - - - - - -
 - - - - - - - - - -
  */
+package interview.problemSolving;
 
 public class gridPrinter {
     public static void main(String[] args) {
