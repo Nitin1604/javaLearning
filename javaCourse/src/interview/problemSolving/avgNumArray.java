@@ -1,10 +1,4 @@
-/*
-Ques 3. Write a Java program to print the following grid.
-Expected Output :
-- - - - - - - - - -
-- - - - - - - - - -
-- - - - - - - - - -
- */
+// Ques 4. Write a Java program to calculate the average value of array elements.
 package interview.problemSolving;
 
 public class avgNumArray {
