@@ -1,5 +1,7 @@
+// Practice Questions : https://www.w3resource.com/java-exercises/array/index.php
 package interview.problemSolving;
 
+// Ques 2. Write a Java program to sum values of an array.
 public class sumArray {
     public static int sumArrayCalc(int [] arrayItemsCalculation){
         int sum = 0;
